@@ -1,5 +1,11 @@
 # 📻 | Kolo - Arch Package Finder
 
+---
+
+[Српски (🇷🇸)](README.md) | [English (🇬🇧)](README-en.md)
+
+---
+
 Interactive package finder for Arch Linux using [`fzf`](https://github.com/junegunn/fzf) to search official repositories and AUR.
 
 ## Usage
