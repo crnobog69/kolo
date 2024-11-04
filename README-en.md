@@ -36,6 +36,6 @@ Interactive package finder for Arch Linux using [`fzf`](https://github.com/juneg
 
 ## Остало
 
-- (`crnobog/dotfiles`)[https://github.com/crnobog69/dotfiles]
+- [`crnobog/dotfiles`](https://github.com/crnobog69/dotfiles)
 
 ---
