@@ -19,7 +19,7 @@ Interactive package finder for Arch Linux using [`fzf`](https://github.com/juneg
 ### Requirements
 
 - fzf
-- AUR helper (yay/paru/pikaur/trizen/aura) for AUR support
+- AUR helper (`yay`/`paru`/`pikaur`/`trizen`/`aura`) for AUR support
 
 ---
 
@@ -31,3 +31,11 @@ Interactive package finder for Arch Linux using [`fzf`](https://github.com/juneg
 - Electric circuit (Električno kolo): A pathway for electric current, including a power source and electronic components.
 
 </details>
+
+---
+
+## Остало
+
+- (`crnobog/dotfiles`)[https://github.com/crnobog69/dotfiles]
+
+---

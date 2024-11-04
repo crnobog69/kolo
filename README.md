@@ -25,7 +25,7 @@
 ## Захтеви
 
 - fzf
-- AUR помођник (yay/paru/pikaur/trizen/aura) за AUR подршку
+- AUR помођник (`yay`/`paru`/`pikaur`/`trizen`/`aura`) за AUR подршку
 
 ---
 
@@ -37,3 +37,11 @@
 - Електрично коло: Пут за проток електричне струје, који укључује извор напајања и електронске компоненте.
 
 </details>
+
+---
+
+## Other
+
+- (`crnobog/dotfiles`)[https://github.com/crnobog69/dotfiles]
+
+---
