@@ -10,51 +10,30 @@
 
 ## Употреба
 
-```bash
-./kolo.sh# Претрага званичних репозиторијума
-```
-
-```bash
-./kolo.sh --aur   # Претрага са AUR подршком
-```
-
-### Захтеви
-
-- fzf
-- AUR помођник (yay/paru/pikaur/trizen/aura) за AUR подршку
-
-### Значење
-
-1. Коло (игра): Традиционални плес у кругу са ритмичким покретима, обично у друштву.
-
-2. Електрично коло: Пут за проток електричне струје, који укључује извор напајања и електронске компоненте.
-
----
-
-# 📻 | Kolo - Arch Package Finder
-
-Interactive package finder for Arch Linux using (`fzf`)[https://github.com/junegunn/fzf] to search official repositories and AUR.
-
-## Usage
+### Претрага званичних репозиторијума
 
 ```bash
 ./kolo.sh
 ```
 
-```bash # Search official repos
-./kolo.sh --aur   # Search with AUR support
+### Претрага са AUR подршком
+
+```bash
+./kolo.sh --aur
 ```
 
-### Requirements
+## Захтеви
 
 - fzf
-- AUR helper (yay/paru/pikaur/trizen/aura) for AUR support
+- AUR помођник (yay/paru/pikaur/trizen/aura) за AUR подршку
+
+---
 
 <details>
-<summary>Kolo</summary>
+<summary>Коло - Значење</summary>
 
-1. Kolo (game): A traditional circular dance involving rhythmic movements, usually in a group.
+- Коло (игра): Традиционални плес у кругу са ритмичким покретима, обично у друштву.
 
-2. Electric circuit (Električno kolo): A pathway for electric current, including a power source and electronic components.
+- Електрично коло: Пут за проток електричне струје, који укључује извор напајања и електронске компоненте.
 
 </details>
