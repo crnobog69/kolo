@@ -10,16 +10,20 @@ Interactive package finder for Arch Linux using [`fzf`](https://github.com/juneg
 
 ## Usage
 
+```bash
+chmod +x kolo-en.sh
+```
+
 ### Search official repos
 
 ```bash
-./kolo.sh
+./kolo-en.sh
 ```
 
 ### Search with AUR support
 
 ```bash
-./kolo.sh --aur
+./kolo-en.sh --aur
 ```
 
 ### Requirements
