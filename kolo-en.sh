@@ -23,6 +23,10 @@ if [[ "$1" == "--aur" ]]; then
     USE_AUR=true
 fi
 
+# Adding a trap to catch CTRL+C (SIGINT)
+trap "echo; echo 'Script interrupted with CTRL+C.'; exit" SIGINT
+
+
 # Setting up the package manager
 if $USE_AUR; then
     PACKAGE_MANAGER=$(find_aur_helper)
