@@ -39,7 +39,7 @@ chmod +x kolo-en.sh
 <details>
 <summary>Kolo - Meaning</summary>
 
-- Kolo (game): A traditional circular dance involving rhythmic movements, usually in a group.
+- Kolo (game): Serbian traditional circular dance involving rhythmic movements, usually in a group.
 
 - Electric circuit (Električno kolo): A pathway for electric current, including a power source and electronic components.
 
