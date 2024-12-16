@@ -12,7 +12,8 @@
 
 </div>
 
-> [!WARNING] > `kolo-en.sh` - се не одржава активно.
+> [!WARNING]
+> `kolo-en.sh` - се не одржава активно.
 
 Интерактивни претраживач пакета за Arch Linux који користи [`fzf`](https://github.com/junegunn/fzf) за претрагу званичних репозиторијума и AUR-а.
 

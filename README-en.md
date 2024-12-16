@@ -12,7 +12,8 @@
 
 </div>
 
-> [!WARNING] > `kolo-en.sh` - is not actively maintained.
+> [!WARNING]
+> `kolo-en.sh` - is not actively maintained.
 
 Interactive package finder for Arch Linux using [`fzf`](https://github.com/junegunn/fzf) to search official repositories and AUR.
 
