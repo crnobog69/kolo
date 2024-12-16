@@ -66,7 +66,7 @@ makepkg -si
 
 ---
 
-## Other
+## Остало
 
 - [`crnobog/dotfiles`](https://github.com/crnobog69/dotfiles)
 
