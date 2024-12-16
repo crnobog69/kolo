@@ -6,8 +6,7 @@
 
 ---
 
-> [!WARNING]
-> `kolo-en.sh` - се не одржава активно.
+> [!WARNING] > `kolo-en.sh` - се не одржава активно.
 
 Интерактивни претраживач пакета за Arch Linux који користи [`fzf`](https://github.com/junegunn/fzf) за претрагу званичних репозиторијума и AUR-а.
 
@@ -29,10 +28,29 @@ chmod +x kolo.sh
 ./kolo.sh --aur
 ```
 
+### Синхронизација базе пакета
+
+```bash
+./kolo.sh --sync
+```
+
+### Пример коришћења
+
+```bash
+./kolo.sh --aur --sync
+```
+
 ## Захтеви
 
 - fzf
 - AUR помођник (`yay`/`paru`/`pikaur`/`trizen`/`aura`) за AUR подршку
+
+```bash
+sudo pacman -S --needed git base-devel fzf
+git clone https://aur.archlinux.org/yay.git
+cd yay
+makepkg -si
+```
 
 ---
 

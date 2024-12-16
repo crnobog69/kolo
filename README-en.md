@@ -6,8 +6,7 @@
 
 ---
 
-> [!WARNING]
-> `kolo-en.sh` - is not actively maintained.
+> [!WARNING] > `kolo-en.sh` - is not actively maintained.
 
 Interactive package finder for Arch Linux using [`fzf`](https://github.com/junegunn/fzf) to search official repositories and AUR.
 
@@ -29,10 +28,29 @@ chmod +x kolo-en.sh
 ./kolo-en.sh --aur
 ```
 
+### Sync package database
+
+```bash
+./kolo-en.sh --sync
+```
+
+### Example usage
+
+```bash
+./kolo-en.sh --aur --sync
+```
+
 ### Requirements
 
 - fzf
 - AUR helper (`yay`/`paru`/`pikaur`/`trizen`/`aura`) for AUR support
+
+```bash
+sudo pacman -S --needed git base-devel fzf
+git clone https://aur.archlinux.org/yay.git
+cd yay
+makepkg -si
+```
 
 ---
 
@@ -52,3 +70,7 @@ chmod +x kolo-en.sh
 - [`crnobog/dotfiles`](https://github.com/crnobog69/dotfiles)
 
 ---
+
+```
+
+```
