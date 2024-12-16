@@ -11,11 +11,15 @@
 
 Интерактивни претраживач пакета за Arch Linux који користи [`fzf`](https://github.com/junegunn/fzf) за претрагу званичних репозиторијума и AUR-а.
 
+---
+
 ## Употреба
 
 ```bash
 chmod +x kolo.sh
 ```
+
+---
 
 ### Претрага званичних репозиторијума
 
@@ -23,11 +27,15 @@ chmod +x kolo.sh
 ./kolo.sh
 ```
 
+![Коло](assets/kolo.png)
+
 ### Претрага са AUR подршком
 
 ```bash
 ./kolo.sh --aur
 ```
+
+![Коло AUR](assets/kolo-aur.png)
 
 ### Синхронизација базе пакета
 

@@ -11,6 +11,8 @@
 
 Interactive package finder for Arch Linux using [`fzf`](https://github.com/junegunn/fzf) to search official repositories and AUR.
 
+---
+
 ## Usage
 
 ```bash
@@ -23,11 +25,15 @@ chmod +x kolo-en.sh
 ./kolo-en.sh
 ```
 
+![Kolo](assets/kolo.png)
+
 ### Search with AUR support
 
 ```bash
 ./kolo-en.sh --aur
 ```
+
+![Kolo AUR](assets/kolo-aur.png)
 
 ### Sync package database
 
