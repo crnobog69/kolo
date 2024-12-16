@@ -1,4 +1,8 @@
-# 📻 | Kolo - Arch Package Finder
+# <p align="center">📻 | Kolo - Arch Package Finder</p>
+
+</div>
+
+<div align="center">
 
 ---
 
@@ -6,8 +10,9 @@
 
 ---
 
-> [!WARNING]
-> `kolo-en.sh` - is not actively maintained.
+</div>
+
+> [!WARNING] > `kolo-en.sh` - is not actively maintained.
 
 Interactive package finder for Arch Linux using [`fzf`](https://github.com/junegunn/fzf) to search official repositories and AUR.
 
